@@ -23,20 +23,20 @@ export function Footer() {
 
         <div className="flex items-center gap-6">
           <a
-            href="https://github.com/galesTV/portfolio-galesTV"
+            href="https://github.com/gael-guzman/portfolio-gael-guzman"
             target="_blank"
             rel="noopener noreferrer"
             className="text-xs hover:text-zinc-200 transition-colors"
           >
-            Portfólio v1.3.0
+            Portfólio v1.3.1
           </a>
           <a
-            href="https://github.com/galesTV/portfolio-galesTV"
+            href="https://github.com/gael-guzman/portfolio-gael-guzman"
             target="_blank"
             rel="noopener noreferrer"
             className="text-xs hover:text-zinc-200 transition-colors"
           >
-            Última alteração: 08/09/2025
+            Última alteração: 26/09/2025
           </a>
           <button
             onClick={scrollToTop}
