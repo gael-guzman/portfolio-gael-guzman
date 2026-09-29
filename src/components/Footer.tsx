@@ -23,7 +23,7 @@ export function Footer() {
 
         <div className="flex items-center gap-6">
           <a
-            href="https://github.com/galesTV/portfolio-galesTV"
+            href="https://github.com/gael-guzman/portfolio-gael-guzman"
             target="_blank"
             rel="noopener noreferrer"
             className="text-xs hover:text-zinc-200 transition-colors"
@@ -31,7 +31,7 @@ export function Footer() {
             Portfólio v1.3.2
           </a>
           <a
-            href="https://github.com/galesTV/portfolio-galesTV"
+            href="https://github.com/gael-guzman/portfolio-gael-guzman"
             target="_blank"
             rel="noopener noreferrer"
             className="text-xs hover:text-zinc-200 transition-colors"

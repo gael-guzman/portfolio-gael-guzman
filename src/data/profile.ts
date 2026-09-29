@@ -96,7 +96,7 @@ export const profileData = {
     devOpsAndTools: ["Docker", "Postman", "Git", "Figma"],
   },
   links: {
-    github: "https://github.com/galesTV",
+    github: "https://github.com/gael-guzman",
     linkedin: "https://www.linkedin.com/in/gael-guzmannn/",
     email: "gaelguzman.dev@outlook.com",
   },
